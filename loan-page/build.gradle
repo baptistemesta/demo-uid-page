@@ -1,0 +1,6 @@
+apply plugin: 'com.bonitasoft.gradle.bonita-uid-page'
+
+
+dependencies {
+    page project(':loan-widget')
+}
